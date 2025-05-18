@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.time.format.DateTimeFormatter;
 
-
+// 这个工具类可以直接问豆包，很简单
 @Component
 public class RedisIdWorker {
     // 起始时间戳（2023-01-01 00:00:00）
