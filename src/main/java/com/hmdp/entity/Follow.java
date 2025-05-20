@@ -40,7 +40,6 @@ public class Follow implements Serializable {
      * 关联的用户id
      */
     private Long followUserId;
-
     /**
      * 创建时间
      */
